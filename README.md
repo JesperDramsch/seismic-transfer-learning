@@ -14,7 +14,16 @@ Presentation Type: Oral
 
 ## Citation
 
+### Paper
 > Jesper S. Dramsch and Mikael Lüthje (2018) Deep-learning seismic facies on state-of-the-art CNN architectures. SEG Technical Program Expanded Abstracts 2018: pp. 2036-2040.
+
+### Presentation
+> Dramsch, Jesper Soeren; Lüthje, Mikael (2018): Deep-learning seismic facies on state-of-the-art CNN architectures. figshare. Presentation.
+https://doi.org/10.6084/m9.figshare.7301645.v1
+
+### Code
+> Dramsch, Jesper Soeren; Lüthje, Mikael (2018): Deep-learning seismic facies on state-of-the-art CNN architectures. figshare. Code.
+https://doi.org/10.6084/m9.figshare.7227545
 
 ## Usage
 
@@ -52,8 +61,7 @@ Presentation Type: Oral
 - Widrow, B., and M. Lehr, 1990, 30&nbsp;years of adaptive neural networks: Perceptron Madaline, and backpropagation: Proceedings of the IEEE, 78, 1415–1442,  https://doi.org/10.1109/5.58323
 - Yilmaz, Ö., 2001, Seismic data analysis: SEG.
 
-## Presentation
-
+## Notes
 We explore transfer training for automatic seismic interpretation without fine-tuning.
 See and cite the [Powerpoint](https://doi.org/10.6084/m9.figshare.7301645.v1)
 
