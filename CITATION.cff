@@ -1,0 +1,34 @@
+cff-version: '1.2.0'
+message: 'Please cite the following works when using this software.'
+abstract: ' We explore propagation of seismic interpretation by deep learning in stacked 2D sections. We show the application of state-of-the-art image classification algorithms on seismic data. These algorithms were trained on big labeled photograph databases. We use transfer learning to benefit from pre-trained networks and evaluate their performance on seismic data.Presentation Date: Wednesday, October 17, 2018Start Time: 8:30:00 AMLocation: 204B (Anaheim Convention Center)Presentation Type: Oral '
+authors:
+  - family-names: 'Dramsch'
+    given-names: 'Jesper Sören'
+    orcid: '0000-0001-8273-905X'
+  - family-names: 'Lüthje'
+    given-names: 'Mikael'
+    orcid: "0000-0003-2715-1653"
+doi: '10.1190/segam2018-2996783.1'
+identifiers:
+  - type: 'doi'
+    value: '10.1190/segam2018-2996783.1'
+  - type: 'url'
+    value: 'https://library.seg.org/doi/abs/10.1190/segam2018-2996783.1'
+title: 'Deep-learning seismic facies on state-of-the-art CNN architectures'
+url: 'https://library.seg.org/doi/abs/10.1190/segam2018-2996783.1'
+preferred-citation:
+  abstract: 'Deep-learning seismic facies on state-of-the-art CNN architectures'
+  authors:
+    - family-names: 'Dramsch'
+      given-names: 'Jesper Sören'
+      orcid: '0000-0001-8273-905X'
+  identifiers:
+    - type: 'url'
+      value: 'https://github.com/JesperDramsch/seismic-transfer-learning'
+  title: 'JesperDramsch/seismic-transfer-learning'
+  url: 'https://github.com/JesperDramsch/seismic-transfer-learning'
+  abbreviation: 'seismic-transfer-learning'
+  date-published: 2020-08-21
+  year: 2020
+  month: 8
+  type: 'book'
